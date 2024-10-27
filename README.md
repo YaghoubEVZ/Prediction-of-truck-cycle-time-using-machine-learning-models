@@ -1,6 +1,6 @@
 # Prediction-of-truck-cycle-time-using-machine-learning-models
 
-Project Overview 
+**Project Overview** 
 This project focuses on predicting truck productivity within a copper open-pit mining operation using machine learning. By analyzing critical transportation metrics, this project aims to optimize cycle times and enhance overall productivity. The dataset includes 43 entries across 20 columns, capturing various operational metrics, such as haul and return times, load and dump durations, queue times, and travel distances.  
 
 **Business Understanding**  
